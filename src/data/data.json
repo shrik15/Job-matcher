@@ -1,0 +1,100 @@
+[
+    {
+      "name": "A",
+      "requirements": [
+        "html",
+        "css",
+        "javascript"
+      ]
+    },
+    {
+      "name": "B",
+      "requirements": [
+        "html",
+        "css",
+        "javascript",
+        "angular"
+      ]
+    },
+    {
+      "name": "C",
+      "requirements": [
+        "html",
+        "css",
+        "javascript",
+        "react"
+      ]
+    },
+    {
+      "name": "D",
+      "requirements": [
+        "c#",
+        ".net",
+        "sql"
+      ]
+    },
+    {
+      "name": "E",
+      "requirements": [
+        "javascript"
+      ]
+    },
+    {
+      "name": "F",
+      "requirements": [
+        "html",
+        "css",
+        "bootstrap"
+      ]
+    },
+    {
+      "name": "G",
+      "requirements": [
+        "html",
+        "css",
+        "javascript"
+      ]
+    },
+    {
+      "name": "H",
+      "requirements": [
+        "management",
+        "finance",
+        "account"
+      ]
+    },
+    {
+      "name": "I",
+      "requirements": [
+        "sourcing",
+        "recruitment",
+        "talent search"
+      ]
+    },
+    {
+      "name": "J",
+      "requirements": [
+        "management",
+        "event management",
+        "event planning"
+      ]
+    },
+    {
+      "name": "K",
+      "requirements": [
+        "html",
+        "css",
+        "javascript",
+        "bootstrap"
+      ]
+    },
+    {
+      "name": "L",
+      "requirements": [
+        "html",
+        "css",
+        "javascript",
+        "jquery"
+      ]
+    }
+  ]
